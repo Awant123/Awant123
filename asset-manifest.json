@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Awant123/static/css/main.c9482aef.css",
+    "main.js": "/Awant123/static/js/main.c196ac3d.js",
+    "index.html": "/Awant123/index.html",
+    "main.c9482aef.css.map": "/Awant123/static/css/main.c9482aef.css.map",
+    "main.c196ac3d.js.map": "/Awant123/static/js/main.c196ac3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9482aef.css",
+    "static/js/main.c196ac3d.js"
+  ]
+}
